@@ -35,7 +35,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://{{HOST}}/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
+					"raw": "http://{{HOST}}/filteredimage?image_url=https://mymodernmet.com/wp/wp-content/uploads/2019/07/will-burrard-lucas-beetlecam-23-1024x683.jpg",
 					"protocol": "http",
 					"host": [
 						"{{HOST}}"
@@ -46,7 +46,7 @@
 					"query": [
 						{
 							"key": "image_url",
-							"value": "https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg"
+							"value": "https://mymodernmet.com/wp/wp-content/uploads/2019/07/will-burrard-lucas-beetlecam-23-1024x683.jpg"
 						}
 					]
 				}
@@ -77,8 +77,7 @@
 	"variable": [
 		{
 			"key": "HOST",
-			"value": "localhost:8082",
-			"type": "string"
+			"value": "udagramservice.eba-ba6ensw9.us-east-1.elasticbeanstalk.com"
 		}
 	]
 }
